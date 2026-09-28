@@ -1,7 +1,7 @@
 # DAA Practicals
-NAME: Siddhika kesarwani
-Cource: SY Data Science
-College: B.K. Birla College,Kalyan
+NAME: Siddhika kesarwani.
+Cource: SY Data Science.
+College: B.K. Birla College,Kalyan.
 ## Practical List
 Practical 1
 Practical 2
